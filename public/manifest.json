@@ -9,6 +9,12 @@
     },
     {
       "src": "https://robohash.org/1?size=192x192",
+      "sizes": "196x196",
+      "type" : "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://robohash.org/1?size=192x192",
       "sizes": "192x192",
       "type" : "image/png"
     },
